@@ -4,7 +4,7 @@ I am Saksham Dwivedi, currently working as a AI Engineer at [Casamed](https://ca
 
 [![Linkedin Badge](https://img.shields.io/badge/-Saksham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/saksham-dwivedi/)](www.linkedin.com/in/saksham-dwivedi)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sakshamdwivedi10082002)
-[![Gmail Badge](https://img.shields.io/badge/-Saksham Dwivedi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamdwivedi10082002@gmail.com)](mailto:sakshamdwivedi10082002@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-SakshamDwivedi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamdwivedi10082002@gmail.com)](mailto:sakshamdwivedi10082002@gmail.com)
 
 
 
