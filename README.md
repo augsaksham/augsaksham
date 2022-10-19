@@ -29,7 +29,7 @@ I am Saksham Dwivedi, currently working as a AI Engineer at [Casamed](https://ca
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=augsaksham&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augsaksham&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=augsaksham.augsaksham)
