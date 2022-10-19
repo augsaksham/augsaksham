@@ -4,7 +4,7 @@ I am Saksham Dwivedi, currently working as a AI Engineer at [Casamed](https://ca
 
 [![Linkedin Badge](https://img.shields.io/badge/-Saksham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/saksham-dwivedi/)](www.linkedin.com/in/saksham-dwivedi)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sakshamdwivedi10082002)
-[![Gmail Badge](https://img.shields.io/badge/-SakshamDwivedi10082002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamdwivedi10082002@gmail.com)](mailto:sakshamdwivedi10082002@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Saksham Dwivedi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamdwivedi10082002@gmail.com)](mailto:sakshamdwivedi10082002@gmail.com)
 
 
 
@@ -33,3 +33,4 @@ I am Saksham Dwivedi, currently working as a AI Engineer at [Casamed](https://ca
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augsaksham&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=augsaksham.augsaksham)
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=augsaksham&" alt="augsaksham" /></p>
