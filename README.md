@@ -32,7 +32,6 @@ I am Saksham Dwivedi, currently working as a AI Engineer at [Casamed](https://ca
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=augsaksham&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augsaksham&hide=TeX&layout=compact)
 
-<img align="left" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=augsaksham&" alt="augsaksham" /></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=augsaksham.augsaksham)
